@@ -39,7 +39,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/niccolo-machiavelli_the-prince_w-k-marriott</meta>
 		<dc:creator id="author">Niccolò Machiavelli</dc:creator>
 		<meta property="file-as" refines="#author">Machiavelli, Niccolò</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">W. K. Marriott</dc:contributor>
 		<meta property="file-as" refines="#translator">Marriott, W. K.</meta>
@@ -48,7 +48,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Santi di Tito</dc:contributor>
 		<meta property="file-as" refines="#artist">di Tito, Santi</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Santi_di_Tito</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Santi_di_Tito</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Bicker</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bicker, John</meta>
