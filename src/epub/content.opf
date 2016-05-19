@@ -41,18 +41,18 @@
 		<dc:creator id="author">Niccolò Machiavelli</dc:creator>
 		<meta property="file-as" refines="#author">Machiavelli, Niccolò</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096105.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096105</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">W. K. Marriott</dc:contributor>
 		<meta property="file-as" refines="#translator">Marriott, W. K.</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no93033524.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no93033524</meta>
 		<dc:contributor id="artist">Santi di Tito</dc:contributor>
 		<meta property="file-as" refines="#artist">di Tito, Santi</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Santi_di_Tito</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81085877.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81085877</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Bicker</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bicker, John</meta>
