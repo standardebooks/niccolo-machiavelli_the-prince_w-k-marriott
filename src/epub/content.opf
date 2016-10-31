@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-06-21T04:23:38Z</meta>
-		<meta property="se:revision-number">34</meta>
+		<meta property="dcterms:modified">2016-10-31T20:12:00Z</meta>
+		<meta property="se:revision-number">35</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,8 +29,8 @@
 		<dc:description id="description">Machiavelli’s classic treatise on how to tyrannize one’s subjects.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Prince&lt;/i&gt; is a book that was controversial before it had even been sent to the printer.  Written in vernacular Italian instead of Latin, dedicated to a member of one of the most powerful Italian families of the day, and only printed after Machiavelli&amp;rsquo;s death, this treatise on how to tyrannize effectively was considered shocking even by his contemporaries.  The discussion of its morality that continues to this day gives us the modern-day word &lt;i&gt;Machiavellian&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;The book is organized into several sections, each one giving direction on the ruthless rule of principalities that Machiavelli based on both reading and personal experience. Despite its controversial nature, &lt;i&gt;The Prince&lt;/i&gt; is often cited as one of the first examples of modern philosophical thought, and the &amp;ldquo;advice&amp;rdquo; contained within is still quoted as relevant today.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Prince&lt;/i&gt; is a book that was controversial before it had even been sent to the printer.  Written in vernacular Italian instead of Latin, dedicated to a member of one of the most powerful Italian families of the day, and only printed after Machiavelli’s death, this treatise on how to tyrannize effectively was considered shocking even by his contemporaries.  The discussion of its morality that continues to this day gives us the modern-day word &lt;i&gt;Machiavellian&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;The book is organized into several sections, each one giving direction on the ruthless rule of principalities that Machiavelli based on both reading and personal experience. Despite its controversial nature, &lt;i&gt;The Prince&lt;/i&gt; is often cited as one of the first examples of modern philosophical thought, and the “advice” contained within is still quoted as relevant today.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
