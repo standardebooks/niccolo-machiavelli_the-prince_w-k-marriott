@@ -28,10 +28,6 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-section[epub|type~="chapter"] ol p:first-child{
-	text-indent: 0;
-}
-
 abbr.era{
 	font-variant: all-small-caps;
 }
