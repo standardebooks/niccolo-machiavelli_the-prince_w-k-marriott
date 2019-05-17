@@ -26,23 +26,24 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Prince</dc:title>
 		<meta property="file-as" refines="#title">Prince, The</meta>
 		<dc:subject id="subject-1">Political science--Philosophy--Early works to 1800</dc:subject>
 		<dc:subject id="subject-2">Political ethics--Early works to 1800</dc:subject>
 		<dc:subject id="subject-3">State, The--Early works to 1800</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/2011453905</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/2011453905</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/2011453905</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008109609</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008112231</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Machiavelli’s classic treatise on how to tyrannize one’s subjects.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Prince&lt;/i&gt; is a book that was controversial before it had even been sent to the printer. Written in vernacular Italian instead of Latin, dedicated to a member of one of the most powerful Italian families of the day, and only printed after Machiavelli’s death, this treatise on how to tyrannize effectively was considered shocking even by his contemporaries. The discussion of its morality that continues to this day gives us the modern-day word &lt;i&gt;Machiavellian&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;The book is organized into several sections, each one giving direction on the ruthless rule of principalities that Machiavelli based on both reading and personal experience. Despite its controversial nature, &lt;i&gt;The Prince&lt;/i&gt; is often cited as one of the first examples of modern philosophical thought, and the “advice” contained within is still quoted as relevant today.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1232</dc:source>
 		<meta property="se:word-count">34973</meta>
