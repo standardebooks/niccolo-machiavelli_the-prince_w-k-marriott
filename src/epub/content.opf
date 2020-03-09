@@ -46,8 +46,8 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1232</dc:source>
-		<meta property="se:word-count">34973</meta>
-		<meta property="se:reading-ease.flesch">39.64</meta>
+		<meta property="se:word-count">35019</meta>
+		<meta property="se:reading-ease.flesch">39.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Prince</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/niccolo-machiavelli_the-prince_w-k-marriott</meta>
 		<dc:creator id="author">Niccolò Machiavelli</dc:creator>
