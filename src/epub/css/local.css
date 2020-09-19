@@ -19,10 +19,6 @@
 	display: none;
 }
 
-[epub|type~="z3998:verse"] + p{
-	text-indent: 0;
-}
-
 abbr.era{
 	font-variant: all-small-caps;
 }
