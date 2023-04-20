@@ -40,7 +40,7 @@
 		<meta property="se:subject">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">Machiavelli’s classic treatise on how to tyrannize one’s subjects.</dc:description>
+		<dc:description id="description">The classic treatise on how to tyrannize one’s subjects.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Prince&lt;/i&gt; is a book that was controversial before it had even been sent to the printer. Written in vernacular Italian instead of Latin, dedicated to a member of one of the most powerful Italian families of the day, and only printed after &lt;a href="https://standardebooks.org/ebooks/niccolo-machiavelli"&gt;Machiavelli’s&lt;/a&gt; death, this treatise on how to tyrannize effectively was considered shocking even by his contemporaries. The discussion of its morality that continues to this day gives us the modern-day word &lt;i&gt;Machiavellian&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;The book is organized into several sections, each one giving direction on the ruthless rule of principalities that Machiavelli based on both reading and personal experience. Despite its controversial nature, &lt;i&gt;The Prince&lt;/i&gt; is often cited as one of the first examples of modern philosophical thought, and the “advice” contained within is still quoted as relevant today.&lt;/p&gt;
