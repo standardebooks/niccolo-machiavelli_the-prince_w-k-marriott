@@ -61,8 +61,8 @@
 		<dc:contributor id="translator">W. K. Marriott</dc:contributor>
 		<meta property="file-as" refines="#translator">Marriott, W. K.</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no93033524</meta>
 		<dc:contributor id="artist">Santi di Tito</dc:contributor>
 		<meta property="file-as" refines="#artist">di Tito, Santi</meta>
