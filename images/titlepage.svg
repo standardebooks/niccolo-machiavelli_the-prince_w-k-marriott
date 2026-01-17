@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
-	<title>The titlepage for the Standard Ebooks edition of The Prince, by Niccolò Machiavelli. Translated by W. K. Marriot</title>
+	<title>The titlepage for the Standard Ebooks edition of The Prince, by Niccolò Machiavelli. Translated by W. K. Marriott</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -29,6 +29,6 @@
 	</style>
 	<text class="title" x="700" y="130">THE PRINCE</text>
 	<text class="author" x="700" y="290">NICCOLÒ MACHIAVELLI</text>
-	<text class="contributor-descriptor" x="700" y="470">translated by</text>
-	<text class="contributor" x="700" y="540">W. K. MARRIOT</text>
+	<text class="contributor-descriptor" x="700" y="480">translated by</text>
+	<text class="contributor" x="700" y="540">W. K. MARRIOTT</text>
 </svg>
