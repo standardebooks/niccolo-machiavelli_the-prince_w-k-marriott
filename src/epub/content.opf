@@ -58,6 +58,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096105</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="translator">W. K. Marriott</dc:contributor>
 		<meta property="file-as" refines="#translator">Marriott, W. K.</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
