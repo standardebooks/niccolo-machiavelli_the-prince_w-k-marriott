@@ -64,10 +64,11 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="translator">W. K. Marriott</dc:contributor>
 		<meta property="file-as" refines="#translator">Marriott, W. K.</meta>
+		<meta property="schema:alternateName" refines="#translator">William Kenaz Marriott</meta>
+		<link href="https://id.loc.gov/authorities/names/no93033524.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
-		<link href="https://id.loc.gov/authorities/names/no93033524.html" refines="#translator" rel="schema:sameAs"/>
 		<dc:contributor id="artist">Santi di Tito</dc:contributor>
 		<meta property="file-as" refines="#artist">di Tito, Santi</meta>
 		<link href="https://en.wikipedia.org/wiki/Santi_di_Tito" refines="#artist" rel="schema:sameAs"/>
